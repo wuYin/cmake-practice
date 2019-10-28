@@ -1,0 +1,2 @@
+PROJECT(Redis)
+ADD_SUBDIRECTORY(src)

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wuyin/c/cmake-practice/t7/src/main.c
+curl/curl.h
+-
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+

@@ -1,0 +1,5 @@
+/Users/wuyin/c/cmake-practice/t7/build/CMakeFiles/rebuild_cache.dir
+/Users/wuyin/c/cmake-practice/t7/build/CMakeFiles/edit_cache.dir
+/Users/wuyin/c/cmake-practice/t7/build/src/CMakeFiles/rebuild_cache.dir
+/Users/wuyin/c/cmake-practice/t7/build/src/CMakeFiles/edit_cache.dir
+/Users/wuyin/c/cmake-practice/t7/build/src/CMakeFiles/curltest.dir

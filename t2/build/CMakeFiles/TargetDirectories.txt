@@ -1,0 +1,13 @@
+/Users/wuyin/c/cmake-practice/t2/build/CMakeFiles/install/local.dir
+/Users/wuyin/c/cmake-practice/t2/build/CMakeFiles/install/strip.dir
+/Users/wuyin/c/cmake-practice/t2/build/CMakeFiles/install.dir
+/Users/wuyin/c/cmake-practice/t2/build/CMakeFiles/list_install_components.dir
+/Users/wuyin/c/cmake-practice/t2/build/CMakeFiles/rebuild_cache.dir
+/Users/wuyin/c/cmake-practice/t2/build/CMakeFiles/edit_cache.dir
+/Users/wuyin/c/cmake-practice/t2/build/bin/CMakeFiles/install/local.dir
+/Users/wuyin/c/cmake-practice/t2/build/bin/CMakeFiles/rebuild_cache.dir
+/Users/wuyin/c/cmake-practice/t2/build/bin/CMakeFiles/edit_cache.dir
+/Users/wuyin/c/cmake-practice/t2/build/bin/CMakeFiles/install/strip.dir
+/Users/wuyin/c/cmake-practice/t2/build/bin/CMakeFiles/install.dir
+/Users/wuyin/c/cmake-practice/t2/build/bin/CMakeFiles/list_install_components.dir
+/Users/wuyin/c/cmake-practice/t2/build/bin/CMakeFiles/hello.dir
